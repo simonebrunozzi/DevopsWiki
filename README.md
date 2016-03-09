@@ -398,6 +398,10 @@ Stack vs Heap
 
 http://gribblelab.org/CBootcamp/7_Memory_Stack_vs_Heap.html
 
+Javascript data structures posts
+
+http://blog.benoitvallon.com/category/data-structures-in-javascript/
+
 **[Back to top](#table-of-contents)**
 
 ## Code Editors
